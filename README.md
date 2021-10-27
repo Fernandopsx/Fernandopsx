@@ -29,3 +29,5 @@ Desejo seguir na area de Desenvolvedor FRONT- END
 ### CONTATO
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<p align="center">VISITANTES</p></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/fernandopsx/count.svg" /></p>
